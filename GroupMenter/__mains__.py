@@ -106,7 +106,7 @@ Commands available:
 × /help: Give's you this message.
 × /donate: Information related on how to support my creator!
 
-All commands can either be used with / OR !.
+All commands can either be used with / or !.
 """
 
 
